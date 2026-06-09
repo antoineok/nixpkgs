@@ -1976,6 +1976,11 @@
     githubId = 14838767;
     name = "Jacopo Scannella";
   };
+  antoineok = {
+    name = "Antoine";
+    github = "antoineok";
+    githubId = 43721315;
+  };
   anton-4 = {
     name = "Anton";
     github = "Anton-4";
